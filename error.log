@@ -1,0 +1,9 @@
+2020-03-12 15:19:46,732 INFO: 127.0.0.1 - - [12/Mar/2020 15:19:46] "GET / HTTP/1.1" 200 -
+2020-03-12 15:20:21,693 INFO:  * Detected change in '/Users/almehady/dev/udacity/projects/casting007/auth.py', reloading
+2020-03-12 15:20:21,794 INFO:  * Restarting with stat
+2020-03-12 15:21:12,447 INFO:  * Detected change in '/Users/almehady/dev/udacity/projects/casting007/auth.py', reloading
+2020-03-12 15:21:12,524 INFO:  * Restarting with stat
+2020-03-12 15:21:40,852 INFO:  * Detected change in '/Users/almehady/dev/udacity/projects/casting007/auth.py', reloading
+2020-03-12 15:21:40,922 INFO:  * Restarting with stat
+2020-03-12 15:22:50,883 INFO:  * Detected change in '/Users/almehady/dev/udacity/projects/casting007/models.py', reloading
+2020-03-12 15:22:50,948 INFO:  * Restarting with stat
