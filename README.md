@@ -7,12 +7,12 @@ Follow instructions to install the latest version of python for your platform in
 
 Dependencies
 Use pip to install the dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 Heroku: https://casting007.herokuapp.com/
 
 ##Authentication Setup
-You can authenticate using the JWT tokens in test_app.py and SampleJWT.txt. These are valid until 3/25/2020.
+You can authenticate using the JWT tokens in test_app.py and SampleJWT.txt.
 
 New tokens can be pulled using the postman collection called udacity-getjwt-capstone
 

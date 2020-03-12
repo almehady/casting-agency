@@ -357,3 +357,6 @@ def process_AuthError(error):
     response.status_code = error.status_code
 
     return response
+
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=8080, debug=True)
