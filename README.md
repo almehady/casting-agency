@@ -12,7 +12,7 @@ pip3 install -r requirements.txt
 Heroku Live URL: https://casting007.herokuapp.com/
 
 ##Authentication Setup
-You can authenticate using the JWT tokens in test_app.py and SampleJWT.txt.
+You can authenticate using the JWT tokens in test_app.py and Sample_JWT_Tokens.txt.
 
 New tokens can be pulled using the postman collection called udacity-getjwt-capstone
 
