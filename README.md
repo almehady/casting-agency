@@ -1,5 +1,5 @@
-##Casting Agency Specifications
-The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. You are an Executive Producer within the company and are creating a system to simplify and streamline your process.
+##Casting007 Agency Specifications
+The Casting007  is a company that is responsible for creating movies and managing and assigning actors to those movies. You are an Executive Producer within the company and are creating a system to simplify and streamline your process.
 
 ##Setup
 Python 3.7
@@ -9,7 +9,7 @@ Dependencies
 Use pip to install the dependencies
 pip3 install -r requirements.txt
 
-Heroku: https://casting007.herokuapp.com/
+Heroku Live URL: https://casting007.herokuapp.com/
 
 ##Authentication Setup
 You can authenticate using the JWT tokens in test_app.py and SampleJWT.txt.
