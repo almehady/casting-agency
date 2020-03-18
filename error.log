@@ -2055,3 +2055,4 @@ urllib.error.URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certifica
 2020-03-12 21:40:28,625 INFO: Authorization header is missing
 2020-03-12 21:40:28,632 INFO: Authorization header is missing
 2020-03-12 21:40:33,347 INFO: Authorization header is missing
+2020-03-18 15:01:26,616 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
